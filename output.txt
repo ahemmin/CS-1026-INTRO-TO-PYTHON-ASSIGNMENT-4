@@ -1,0 +1,13 @@
+Country|Continent|Population|Area
+Brazil|193,364,111|8,511,966|South America
+Canada|34,207,000|9,976,140|
+China|1,339,190,000|9,596,960|Asia
+Colombia|48,654,404|1,091,111|South America
+Egypt|93,384,001||
+France|64,669,829||
+Indonesia|260,581,345||
+Italy|59,801,999||
+Japan|127,380,555|377,800|
+Mexico|128,632,777||
+Sweden|9,995,345|450,295|Europe
+Vietnam|95,541,921|331,310|Asia
